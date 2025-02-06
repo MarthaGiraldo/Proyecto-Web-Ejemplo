@@ -99,4 +99,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
-cambio en feature-mejora.estilo
+/*generar un conflicto cambio en feature-mejora-estilo*/
+button {
+        color:rgba(0, 0, 0, 0.074);
+        transition: background-color 0.9s;
+    }
+
